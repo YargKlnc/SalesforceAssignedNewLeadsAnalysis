@@ -10,3 +10,5 @@ New Leads Assigned to Sales Team Analysis Extracted from Salesforce CRM Data
 ![image](https://github.com/user-attachments/assets/bc71d3b7-851b-4fc9-8d08-54ee63135544)
 
 ![image](https://github.com/user-attachments/assets/03368291-d4e5-4a4e-af63-c8d741bfced5)
+
+![image](https://github.com/user-attachments/assets/bf6bf26c-9e69-46ea-bead-0bb4dbf7aecd)
